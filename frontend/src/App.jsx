@@ -30,7 +30,7 @@ export default function App() {
 
       <footer className="footer">
         <div className="container">
-          Учебный проект: React + Vite, Express, PostgreSQL, Docker Compose
+          project_react_24.10
         </div>
       </footer>
     </div>
